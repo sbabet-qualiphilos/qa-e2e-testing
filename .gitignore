@@ -1,0 +1,17 @@
+# Ignore Node.js dependencies
+node_modules/
+package-lock.json
+
+# Ignore Playwright test results and reports
+playwright-report/
+test-results/
+
+# Ignore environment configuration (if using .env)
+.env
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore compiled TypeScript files (if compiling manually)
+dist/
+out/

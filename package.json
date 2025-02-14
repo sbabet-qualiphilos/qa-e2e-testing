@@ -1,0 +1,14 @@
+{
+  "name": "qa-e2e-testing",
+  "version": "1.0.0",
+  "description": "This repository contains End-to-End (E2E) automated tests using Playwright for UI testing.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.4"
+  }
+}
